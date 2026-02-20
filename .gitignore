@@ -1,0 +1,17 @@
+# Ignore the skills catalog (it's huge and fetched dynamically)
+temp-skills-repo/
+
+# Ignore node_modules if any
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Test project (keep starter kit only)
+test-project/
+REAL TEST PROJECT/
